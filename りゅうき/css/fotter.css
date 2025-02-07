@@ -1,0 +1,26 @@
+.footer {
+    background: #111827;
+    color: var(--white);
+    padding: 3rem 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer-logo svg {
+    color: #60a5fa;
+}
+
+.copyright {
+    color: #9ca3af;
+}
